@@ -2,5 +2,5 @@
 
 By using HTML and CSS Designed and developed a short access webpage  to major academic journals, Scientific readings etc.
 
-Click on below link to see Webpage
+If you want to see the webpage paste the below link in new tab.
 [krishnalibraryaccess.netlify.app](url)
